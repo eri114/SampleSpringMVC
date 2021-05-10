@@ -1,0 +1,8 @@
+version: 2
+updates:
+  # npm の依存関係を最新に保つ
+  - package-ecosystem: "npm"
+    directory: "/"
+    target-branch: "feature/issue_46"
+    schedule:
+      interval: "daily"
