@@ -40,7 +40,7 @@
         <hibernate.version>5.2.10.Final</hibernate.version>
 
         <!-- Hibernate validator -->
-        <hibernate-validator.version>6.0.2.Final</hibernate-validator.version>
+        <hibernate-validator.version>7.0.1.Final</hibernate-validator.version>
 
         <!-- H2 database -->
         <h2.version>1.4.196</h2.version>
