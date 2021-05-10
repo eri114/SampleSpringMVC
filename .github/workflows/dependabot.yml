@@ -1,8 +1,0 @@
-version: 2
-updates:
-  # npm の依存関係を最新に保つ
-  - package-ecosystem: 'maven'
-    directory: '/'
-    target-branch: 'master'
-    schedule:
-      interval: 'daily'
